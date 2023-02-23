@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "586945630692",
+    "project_id": "fir-notification-fcbc6",
+    "storage_bucket": "fir-notification-fcbc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586945630692:android:66caecdc6fc53d6bc377f1",
+        "android_client_info": {
+          "package_name": "com.example.my_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586945630692-q23bu8r460el63q6odeb7h45skusc4v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_task",
+            "certificate_hash": "45cb18bcaef18cb4860ed6f37a44b70b4fc4600a"
+          }
+        },
+        {
+          "client_id": "586945630692-vrnaghnfcdfpros94ge1t1pc4dskv952.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIwRYlicuHKMyVQMnlDeJra3wAfh9Ydk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586945630692-vrnaghnfcdfpros94ge1t1pc4dskv952.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586945630692-cabg5nr9hjuj7im616s3g021r9ucmeu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
