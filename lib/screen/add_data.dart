@@ -62,7 +62,7 @@ class _AddDataScreenState extends State<AddDataScreen> {
               autocorrect: false,
               controller: amount,
               decoration: const InputDecoration(
-                hintText: ' Enter Amount',
+                hintText: ' Enter Amount Giving',
               ),
               keyboardType: TextInputType.number,
               inputFormatters: [FilteringTextInputFormatter.digitsOnly],
