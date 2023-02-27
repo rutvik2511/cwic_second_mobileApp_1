@@ -3,6 +3,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:my_task/screen/home_screen.dart';
+import 'package:my_task/screen/my_home_page.dart';
 import 'package:rxdart/rxdart.dart';
 
 import 'firebase_options.dart';
@@ -78,7 +79,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Money Manager",
-      home: const HomeScreen(),
+      home: const MyHomePage(),
       theme: ThemeData(
         primaryColor: const Color(0xff415bb9), // Change the primary color to blue
         accentColor: const Color(0xff415bb9),
